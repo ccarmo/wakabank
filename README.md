@@ -27,7 +27,7 @@ Esse projeto está sob a licença MIT.
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/ccarmo"><img style="border-radius: 50%;" src="https://i.ibb.co/YNJwy25/IMG-2427.jpg" width="100px;" alt=""/><br /><sub><b>Carlos Henrique</b></sub></a><br/></td>
+    <td align="center"><a href="https://github.com/ccarmo"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/28477200?v=4" width="100px;" alt=""/><br /><sub><b>Carlos Henrique</b></sub></a><br/></td>
     <td align="center"><a href="https://github.com/LeticiaOrozimbo"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/86385275?v=4" width="100px;" alt=""/><br /><sub><b>Leticia Orozimbo</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/rodrigues-re"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/85850710?v=4" width="100px;" alt=""/><br /><sub><b>Regina Rodrigues</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/joaovitorbrandao7"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/77411112?v=4" width="100px;" alt=""/><br /><sub><b>Joao Vitor</b></sub></a><br /></td>
